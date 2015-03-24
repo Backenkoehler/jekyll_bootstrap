@@ -1,0 +1,25 @@
+{
+  "name": "100tausendlux.com_v2",
+  "version": "0.0.1",
+  "authors": [
+    "Stephan Backenkoehler <s.backenkoehler@gmail.com>"
+  ],
+  "description": "Portfolio Page",
+  "moduleType": [
+    "amd",
+    "es6"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.4",
+    "bootstrap": "~3.3.4"
+  }
+}
